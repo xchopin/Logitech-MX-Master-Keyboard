@@ -1,5 +1,5 @@
-# AZERTY Layout for Logitech MX Master Keyboard (Mac Edition)
+# AZERTY Layout for Logitech MX Master Keys (Mac Edition)
 
-> Use you keyboard with its real layout and not with a generic AZERTY
+> Use your keyboard with its real layout and not with a generic AZERTY made by Microsoft
 
 
